@@ -21,7 +21,7 @@ print(type(gravedad))
 print((type(b)))
 print(type(boolean))
 print(1+1)
-print(2+2)
+print(3+3)
 print(1/2)
 print(2**2)
 
